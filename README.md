@@ -9,7 +9,7 @@ This project is an interactive **Power BI Dashboard** built to analyze:
 
 * 📈 Sales Performance Trends
 * 🌍 Regional Sales Distribution
-* 🍕 Pizza Sales Analysis (Size, Category, Time-Based Trends)
+* 🍕 Sales Analysis (Size, Category, Time-Based Trends)
 * 💰 Revenue & Pricing Insights
 
 The dashboard provides business insights that help in decision-making related to product performance, regional sales, and customer purchasing behavior.
